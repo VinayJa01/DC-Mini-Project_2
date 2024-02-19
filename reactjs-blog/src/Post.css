@@ -1,0 +1,67 @@
+.post {
+  background-color: #f8f9fa; /* Light background color */
+  border: 1px solid #ced4da; /* Subtle border color */
+  border-radius: 8px; /* Slightly rounded corners */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Soft box shadow */
+  padding: 1.5rem;
+  margin-bottom: 1.5rem;
+  margin: 20px;
+  transition: transform 0.3s ease-in-out; /* Smooth hover effect */
+}
+
+.post:hover {
+  transform: scale(1.02); /* Enlarge on hover */
+}
+
+.post-username {
+  font-size: 1.8rem; /* Larger username font */
+  font-weight: bold;
+  margin: 0;
+  margin-bottom: 0.5rem;
+  color: #007bff; /* Blue username color */
+}
+
+.post-message {
+  margin: 0;
+  margin-bottom: 1.5rem;
+  color: #343a40; /* Dark text color */
+}
+
+.post-timestamp {
+  color: #6c757d; /* Gray timestamp color */
+  font-size: 0.9rem;
+  margin: 0;
+}
+
+/* Add more styling as needed */
+
+
+
+
+/* .post {
+  background-color: #fff;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  box-shadow: 0 2px 2px rgba(0, 0, 0, 0.1);
+  padding: 1rem;
+  margin-bottom: 1rem;
+  margin: 20px;
+}
+
+.post-username {
+  font-size: 1.5rem;
+  font-weight: bold;
+  margin: 0;
+  margin-bottom: 0.5rem;
+}
+
+.post-message {
+  margin: 0;
+  margin-bottom: 1rem;
+}
+
+.post-timestamp {
+  color: #999;
+  font-size: 0.8rem;
+  margin: 0;
+} */
